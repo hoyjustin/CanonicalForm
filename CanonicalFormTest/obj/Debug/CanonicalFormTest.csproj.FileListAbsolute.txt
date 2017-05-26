@@ -1,0 +1,15 @@
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\bin\Debug\CanonicalFormTest.dll
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\bin\Debug\CanonicalFormTest.pdb
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\bin\Debug\CanonicalForm.exe
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\bin\Debug\CanonicalForm.pdb
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\bin\Debug\CanonicalForm.exe.config
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\obj\Debug\CanonicalFormTest.csprojResolveAssemblyReference.cache
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\obj\Debug\CanonicalFormTest.dll
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalFormTest\obj\Debug\CanonicalFormTest.pdb

@@ -1,0 +1,5 @@
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalForm\bin\Debug\CanonicalForm.exe.config
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalForm\bin\Debug\CanonicalForm.exe
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalForm\bin\Debug\CanonicalForm.pdb
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalForm\obj\Debug\CanonicalForm.exe
+C:\Users\Justinh\documents\visual studio 2017\Projects\CanonicalForm\CanonicalForm\obj\Debug\CanonicalForm.pdb

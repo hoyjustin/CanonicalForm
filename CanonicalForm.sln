@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanonicalForm", "CanonicalForm\CanonicalForm.csproj", "{51718D09-9EEF-4B33-AF73-4EBBA0804BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanonicalFormTest", "CanonicalFormTest\CanonicalFormTest.csproj", "{A779E415-B2F8-47D0-9DD4-C4A8B4B1FE18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51718D09-9EEF-4B33-AF73-4EBBA0804BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51718D09-9EEF-4B33-AF73-4EBBA0804BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51718D09-9EEF-4B33-AF73-4EBBA0804BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51718D09-9EEF-4B33-AF73-4EBBA0804BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A779E415-B2F8-47D0-9DD4-C4A8B4B1FE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A779E415-B2F8-47D0-9DD4-C4A8B4B1FE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A779E415-B2F8-47D0-9DD4-C4A8B4B1FE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A779E415-B2F8-47D0-9DD4-C4A8B4B1FE18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
