@@ -13,7 +13,7 @@ To do this, it tokenizes on numbers, summands, brackets and (+, -, *) operators.
 Turns such tokens into postfix form, solving precedence and finally simplifies
 and reassembles it as a canonical equation.
 
-* This program was completed in C# using .NET Framework 4 through Visual Studio 2017.
+*This program was completed in C# using .NET Framework 4 through Visual Studio 2017.
 
 Run
 ================
