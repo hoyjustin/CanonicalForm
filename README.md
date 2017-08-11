@@ -31,6 +31,7 @@ Notes
 * Parentheses are assumed to should be in pairs and the right order
 * The program can be improved on by doing some further input error checking
 
+
 * Input will be explicit in multiplication (ie. (x+2)(x+2) = 0 is not valid input)
 * Summands can contain the same variable multiple times (ie. 2x^2yx^2 = 3)
 * Numbers can only contain digits, commas and decimal marks
