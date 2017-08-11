@@ -3,7 +3,7 @@ Overview
 This application turns equations into a simplified canonical form.
 
 Examples:
-* "x^2 + 3.5xy + y = y^2 - xy + y" will transform into "x^2 - y^2 + 4.5xy = 0" (or a equivalent equation)
+* "x^2 + 3.5xy + y = y^2 - xy + y" into "x^2 - y^2 + 4.5xy = 0" (or a equivalent equation)
 * "x = 1" into "x - 1 = 0"
 * "x - (y^2 - x) = 0" into "2x - y^2 = 0"
 * "x - (0 - (0 - x)) = 0" into"0 = 0"
