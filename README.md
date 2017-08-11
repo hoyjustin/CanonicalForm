@@ -14,8 +14,6 @@ Turns such tokens into postfix form, solving precedence and finally simplifies
 and reassembles it as a canonical equation.
 
 
-This program was completed in C# using .NET Framework 4 through Visual Studio 2017.
-
 Run
 ================
 The program supports two modes of operation: 
@@ -34,9 +32,8 @@ Notes
 * The program can be improved on by doing some further input error checking
 
 * Input will be explicit in multiplication (ie. (x+2)(x+2) = 0 is not valid input)
-* It is assumed that only input with addition, subtraction, multiplication, and exponent signs will be given.
 * Summands can contain the same variable multiple times (ie. 2x^2yx^2 = 3)
 * Numbers can only contain digits, commas and decimal marks
 * Variables can be written in any order, (ie. "2xy + yx = 3" will give output "3xy - 3 = 0")
-* Exponent bases cant be numbers and must be variables
+* Exponent bases can't be numbers and must be variables
 * Exponents must be positive and must be an integer
